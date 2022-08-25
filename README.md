@@ -17,4 +17,4 @@ PyG==2.0.4
 ```
 
 ## Note
-We implement this paper by other dataset.
+We implement this paper on other dataset.
